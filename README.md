@@ -8,7 +8,7 @@ RFM analysis is a proven marketing model for behavior-based customer segmentatio
 * **Frequency:** Total number of completed orders.
 * **Monetary:** Total revenue generated per customer.
 
-## 🛠 Technical Workflow & SQL Architecture
+## Technical Workflow & SQL Architecture
 The analysis is built through a modular 4-step SQL pipeline:
 
 ### 1. Metric Calculation
